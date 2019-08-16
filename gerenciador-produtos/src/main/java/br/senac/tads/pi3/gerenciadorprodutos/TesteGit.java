@@ -19,8 +19,7 @@ public class TesteGit {
         
         System.out.println("");
         System.out.println("Projeto Integrador III");
-       
-        System.out.println("    OLÁ MUNDO");
+        System.out.println("Olá mundo!!!");
         
     }
     
