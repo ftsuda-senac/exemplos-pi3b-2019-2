@@ -22,6 +22,10 @@ public class TesteGit {
        
         System.out.println("    OLÁ MUNDO");
         
+        for (int i = 0; i < 100; i++) {
+            System.out.println("numero " + i);
+        }
+        
     }
     
 }
