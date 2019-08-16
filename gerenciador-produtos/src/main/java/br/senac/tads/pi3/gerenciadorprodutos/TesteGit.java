@@ -11,6 +11,10 @@ package br.senac.tads.pi3.gerenciadorprodutos;
  */
 public class TesteGit {
     
+    public int somar(int a, int b) {
+        return a + b;
+    }
+    
     public static void main(String[] args) {
         
         System.out.println("Teste de commits");
