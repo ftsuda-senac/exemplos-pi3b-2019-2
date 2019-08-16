@@ -13,6 +13,9 @@ public class TesteGit {
     
     public static void main(String[] args) {
         
+        System.out.println("Teste de commits");
+        System.out.println("Projeto Integrador 3");
+       
         System.out.println("    OLÁ MUNDO");
         
     }
