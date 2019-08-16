@@ -21,6 +21,10 @@ public class TesteGit {
         System.out.println("Projeto Integrador III");
         System.out.println("Olá mundo!!!");
         
+        for (int i = 0; i < 100; i++) {
+            System.out.println("numero " + i);
+        }
+        
     }
     
 }
