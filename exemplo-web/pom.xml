@@ -8,6 +8,17 @@
     <packaging>war</packaging>
 
     <name>exemplo-web</name>
+    
+    <organization>
+        <name>Senac TADS PI3</name>
+    </organization>
+    
+    <developers>
+        <developer>
+            <id>ftsuda-senac</id>
+            <name>Fernando Tsuda</name>
+        </developer>
+    </developers>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
