@@ -16,6 +16,7 @@
     </head>
     <body>
         <h1>Exemplo 2 - JSP com código Java (scriptlet)</h1>
+        <p><b style="color: red">NÃO USAR ESTE RECURSO NO PROJETO</b></p>
         <%
             DateFormat formatter = new SimpleDateFormat("dd/MM/yyyy - HH:mm:ss");
         %>
